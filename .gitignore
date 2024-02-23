@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea/
+
+*.class
+
+*.log
+
+**/target
+
+.DS_Store
+
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
