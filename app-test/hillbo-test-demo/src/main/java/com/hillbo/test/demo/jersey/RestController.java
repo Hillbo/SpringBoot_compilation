@@ -1,4 +1,4 @@
-package com.hillbo.test.jersey;
+package com.hillbo.test.demo.jersey;
 
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.stereotype.Controller;

@@ -1,9 +1,9 @@
-package com.hillbo.test.mybatisandplus.controller;
+package com.hillbo.test.demo.mybatisandplus.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.hillbo.test.mybatisandplus.dao.UserMapper;
-import com.hillbo.test.mybatisandplus.pojo.User;
+import com.hillbo.test.demo.mybatisandplus.dao.UserMapper;
+import com.hillbo.test.demo.mybatisandplus.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 

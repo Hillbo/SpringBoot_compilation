@@ -1,4 +1,4 @@
-package com.hillbo.test.utils;
+package com.hillbo.test.demo.utils;
 
 import org.apache.commons.lang3.Validate;
 import org.springframework.beans.BeansException;

@@ -1,4 +1,4 @@
-package com.hillbo.test.mybatisandplus.pojo;
+package com.hillbo.test.demo.mybatisandplus.pojo;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;

@@ -1,8 +1,8 @@
-package com.hillbo.test.classloader;
+package com.hillbo.test.demo.classloader;
 
 import com.alibaba.fastjson.JSONObject;
-import com.hillbo.test.mybatisandplus.sdk.RedevelopSDK;
-import com.hillbo.test.utils.SpringContextHolderUtil;
+import com.hillbo.test.demo.mybatisandplus.sdk.RedevelopSDK;
+import com.hillbo.test.demo.utils.SpringContextHolderUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

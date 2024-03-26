@@ -1,4 +1,4 @@
-package com.hillbo.test.mybatisandplus.sdk;
+package com.hillbo.test.demo.mybatisandplus.sdk;
 
 public interface RedevelopSDK {
 

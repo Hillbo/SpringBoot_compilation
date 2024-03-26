@@ -1,4 +1,4 @@
-package com.hillbo.test.classloader;
+package com.hillbo.test.demo.classloader;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.catalina.loader.WebappClassLoaderBase;

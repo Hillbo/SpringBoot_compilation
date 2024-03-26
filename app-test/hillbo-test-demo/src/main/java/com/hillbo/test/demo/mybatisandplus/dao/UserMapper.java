@@ -1,8 +1,8 @@
-package com.hillbo.test.mybatisandplus.dao;
+package com.hillbo.test.demo.mybatisandplus.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.hillbo.test.mybatisandplus.pojo.User;
+import com.hillbo.test.demo.mybatisandplus.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

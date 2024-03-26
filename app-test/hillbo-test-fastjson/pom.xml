@@ -3,7 +3,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <parent>
         <groupId>com.hillbo</groupId>
         <artifactId>app-parent</artifactId>
@@ -11,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <artifactId>hillbo-starter</artifactId>
+    <artifactId>hillbo-test-fastjson</artifactId>
     <version>${hillbo.version}</version>
     <packaging>jar</packaging>
 
@@ -26,17 +25,6 @@
             <groupId>com.hillbo</groupId>
             <artifactId>hillbo-basic-depends</artifactId>
             <version>${hillbo.version}</version>
-        </dependency>
-
-        <!-- 缓存 -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-cache</artifactId>
-        </dependency>
-        <!-- ehcache -->
-        <dependency>
-            <groupId>net.sf.ehcache</groupId>
-            <artifactId>ehcache</artifactId>
         </dependency>
     </dependencies>
 

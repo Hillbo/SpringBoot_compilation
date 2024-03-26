@@ -17,6 +17,8 @@
     <modules>
         <module>hillbo-test-redevelop</module>
         <module>hillbo-test-demo</module>
+        <module>hillbo-test-cache</module>
+        <module>hillbo-test-fastjson</module>
     </modules>
 
     <properties>

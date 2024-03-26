@@ -1,6 +1,6 @@
 package com.hillbo.test.redevelop.service;
 
-import com.hillbo.test.mybatisandplus.sdk.RedevelopSDK;
+import com.hillbo.test.demo.mybatisandplus.sdk.RedevelopSDK;
 import com.hillbo.test.redevelop.dao.SDUserMapper;
 import com.hillbo.test.redevelop.pojo.SDUser;
 import lombok.extern.slf4j.Slf4j;
